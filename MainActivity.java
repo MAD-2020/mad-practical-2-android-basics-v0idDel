@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         Button3.setOnClickListener(buttonListener);
         scoreTrack = (TextView) findViewById(R.id.score);
 
-        Log.v(TAG, "Finished Pre-Initialisation!");
+        Log.v(TAG, "Whack-A-Mole!");
 
     }
 
